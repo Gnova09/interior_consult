@@ -1,0 +1,15 @@
+.home{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    color: white;
+}
+
+.home .texto{
+    height: 145px;
+    width: 410px;
+}
+.home .conten_imagen img[alt="imagen"]{
+    width: 60%;
+    height: auto;
+}
