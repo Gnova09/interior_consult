@@ -1,15 +1,72 @@
 .home{
     display: flex;
     flex-direction: row;
-    align-content: center;
     color: white;
 }
 
-.home .texto{
+.home .texto_home{
+
     height: 145px;
-    width: 410px;
+    width: 510px;
+    text-align: left;
+}
+.home .conten_imagen{
+    position: relative;
 }
 .home .conten_imagen img[alt="imagen"]{
-    width: 60%;
+    width: 70%;
     height: auto;
 }
+.home .texto_home p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+.home .texto_home h1{
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 61px;
+}
+.home .texto_home h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+}
+.home .conten_imagen .perfil{
+    position: absolute;
+    bottom: -10%;
+    right: 25%;
+    width: 40%;
+    height: auto;
+    background: #181719;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.home .conten_imagen .perfil span{
+    display: flex;
+   
+}
+
+.home .conten_imagen .perfil img{
+    width: 20%;
+    height: auto;
+    border-radius: 50%;
+}
+.home .conten_imagen .perfil h2,h3 {
+    margin: 5px;
+    padding: 0;
+    font-size: 12px;
+}
+.home .conten_imagen .perfil h1 {
+    margin: 10px;
+    font-size: 24px;
+}
+.home .conten_imagen .perfil span>span{
+    flex-direction: column;
+}
+

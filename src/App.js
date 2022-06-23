@@ -9,7 +9,7 @@ function App() {
           <Navbar/>
           <Home/>
         
-          <footer>Created by: <a href='https://github.com/Gnova09'>Gnova09</a></footer>
+          <footer>Created by: <a href='https://github.com/Gnova09'>Gnova09</a> - DevChallengues</footer>
     </div>
   );
 }
