@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/interior_consult/static/css/main.6b5bf833.css",
+    "main.js": "/interior_consult/static/js/main.b4012e1e.js",
+    "static/js/787.1fcf286d.chunk.js": "/interior_consult/static/js/787.1fcf286d.chunk.js",
+    "static/media/photo1.png": "/interior_consult/static/media/photo1.adfbc15e07d2363bfcf9.png",
+    "static/media/photo2.png": "/interior_consult/static/media/photo2.eada07e9629ccc0d2a74.png",
+    "index.html": "/interior_consult/index.html",
+    "main.6b5bf833.css.map": "/interior_consult/static/css/main.6b5bf833.css.map",
+    "main.b4012e1e.js.map": "/interior_consult/static/js/main.b4012e1e.js.map",
+    "787.1fcf286d.chunk.js.map": "/interior_consult/static/js/787.1fcf286d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5bf833.css",
+    "static/js/main.b4012e1e.js"
+  ]
+}
